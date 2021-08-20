@@ -1,0 +1,1 @@
+i am the only one that can be accessable from any git if gitignore case is not applicable
